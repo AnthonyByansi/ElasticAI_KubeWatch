@@ -53,3 +53,9 @@ ElasticAI KubeWatch provides configuration options through YAML files in the con
 
 - `config.yaml`: General settings for the application.
 - `scaling_rules.yaml`: Rules for auto-scaling based on performance metrics.
+
+## 👥 Contributing
+Contributions to ElasticAI KubeWatch are welcome! To contribute, please follow our Contribution Guidelines.
+
+## 📄 License
+This project is licensed under the MIT License.
