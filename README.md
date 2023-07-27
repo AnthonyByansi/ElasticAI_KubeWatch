@@ -43,3 +43,7 @@ The ElasticAI KubeWatch solution can be deployed to Azure Kubernetes Service (AK
 
 ```bash
 ./scripts/deploy_to_aks.sh
+```
+---
+
+Make sure you have the necessary permissions and the AKS cluster is properly set up before running the script.
