@@ -58,4 +58,4 @@ ElasticAI KubeWatch provides configuration options through YAML files in the con
 Contributions to ElasticAI KubeWatch are welcome! To contribute, please follow our Contribution Guidelines.
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
