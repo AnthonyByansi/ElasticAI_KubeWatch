@@ -23,7 +23,7 @@ ElasticAI KubeWatch is an AI-driven auto-scaling solution using Azure Functions 
 
 To get started with ElasticAI KubeWatch, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/AnthonyByansi/elasticai-kubewatch.git`
+1. Clone the repository: `https://github.com/AnthonyByansi/ElasticAI_KubeWatch.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Configure the settings in `config/config.yaml` and `config/scaling_rules.yaml`.
 4. Deploy the application to AKS using the provided scripts: `./scripts/deploy_to_aks.sh`
