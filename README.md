@@ -47,3 +47,9 @@ The ElasticAI KubeWatch solution can be deployed to Azure Kubernetes Service (AK
 ---
 
 Make sure you have the necessary permissions and the AKS cluster is properly set up before running the script.
+
+## 🔧 Configuration
+ElasticAI KubeWatch provides configuration options through YAML files in the config directory:
+
+- `config.yaml`: General settings for the application.
+- `scaling_rules.yaml`: Rules for auto-scaling based on performance metrics.
