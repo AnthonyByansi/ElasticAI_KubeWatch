@@ -17,7 +17,7 @@ ElasticAI KubeWatch is an AI-driven auto-scaling solution using Azure Functions 
 - AI-powered auto-scaling of AKS clusters based on real-time performance metrics.
 - Easily configurable scaling rules to handle varying workloads efficiently.
 - Integrates with Azure Functions to enable dynamic resource adjustments.
-- Includes machine learning model for demand forecasting (optional).
+- Includes machine learning model for demand forecasting.
 
 ## 🚀 Getting Started
 
