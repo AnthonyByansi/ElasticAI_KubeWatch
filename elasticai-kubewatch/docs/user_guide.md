@@ -1,6 +1,6 @@
 # 📚 User Guide
 
-Welcome to the ElasticAI KubeWatch User Guide! This guide provides detailed instructions on configuring and using the ElasticAI KubeWatch solution for intelligent auto-scaling on Azure Kubernetes Service (AKS). 🚀
+This guide provides detailed instructions on configuring and using the ElasticAI KubeWatch solution for intelligent auto-scaling on Azure Kubernetes Service (AKS). 🚀
 
 ## 📋 Table of Contents
 
