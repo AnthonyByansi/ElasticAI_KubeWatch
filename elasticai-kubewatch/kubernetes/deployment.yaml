@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: elasticai-kubewatch
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: elasticai-kubewatch
+  template:
+    metadata:
+      labels:
+        app: elasticai-kubewatch
+    spec:
+      containers:
+        - name: elasticai-kubewatch
+          image: your-acr-name.azurecr.io/elasticai-kubewatch:latest  # Replace with your Docker image
+          ports:
+            - containerPort: 80  # Adjust the port based on your application
+      imagePullSecrets:
+        - name: acr-secret  # If using Azure Container Registry, replace with your image pull secret
