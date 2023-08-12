@@ -1,0 +1,23 @@
+# ElasticAI KubeWatch Requirements
+
+# Azure Functions Dependencies
+azure-functions==1.15.0  # Library for building Azure Functions
+
+# Kubernetes Management
+kubernetes==18.20.0  # Python client library for interacting with Kubernetes clusters
+
+# Machine Learning (Optional)
+scikit-learn==0.24.2  # Machine learning library for building predictive models
+pandas==1.3.1  # Data manipulation library for handling datasets
+numpy==1.21.1  # Fundamental package for scientific computing with Python
+
+# Azure SDKs
+azure-mgmt-containerregistry==16.0.0  # Azure SDK for managing Azure Container Registry
+azure-mgmt-aks==18.0.0  # Azure SDK for managing Azure Kubernetes Service
+azure-mgmt-monitor==11.0.0  # Azure SDK for managing Azure Monitor
+
+# Docker Integration
+docker==5.0.2  # Python library for Docker API interactions
+
+# Miscellaneous
+PyYAML==5.4.1  # Library for working with YAML files in Python
